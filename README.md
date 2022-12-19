@@ -1,8 +1,6 @@
 <div align="center">
-    <img width=300 height=300 alt="HoenNTK's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hoenntk68&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats">
-    <img width=300 height=300 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoenntk68&hide=lua&layout=compact&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats">
-<!-- [![HoenNTK's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoenntk68&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoenntk68&hide=lua&layout=compact&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats) -->
+    <img width=400 height=300 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoenntk68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=lua">
+    <img width=400 height=300 alt="HoenNTK's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hoenntk68&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </div>
 
 <!--
