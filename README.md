@@ -1,6 +1,9 @@
-[![HoenNTK's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoenntk68&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoenntk68&hide=lua&layout=compact&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats)
-
+<div align="center">
+    <img width=500 height=500 alt="HoenNTK's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hoenntk68&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats">
+    <img width=500 height=500 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoenntk68&hide=lua&layout=compact&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats">
+<!-- [![HoenNTK's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoenntk68&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoenntk68&hide=lua&layout=compact&theme=tokyonight)](https://github.com/hoenntk68/github-readme-stats) -->
+</div>
 
 <!--
 **hoenntk68/hoenntk68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
